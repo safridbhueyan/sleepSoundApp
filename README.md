@@ -15,7 +15,7 @@ A Flutter-based mobile application designed to create personalized soundscapes t
 ---
 
 ## Screenshots
-
+https://github.com/user-attachments/assets/82738c51-51eb-425b-948d-2991a26df1f3
 
 
 ---

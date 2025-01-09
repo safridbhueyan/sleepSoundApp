@@ -1,16 +1,37 @@
-# sleep_sound
+# Sleep Soundscape App
 
-A new Flutter project.
+A Flutter-based mobile application designed to create personalized soundscapes to help users relax and sleep better. The app allows users to mix, customize, and save audio tracks such as rain, wind, and forest sounds. Users can adjust volume levels for each sound, save custom mixes, and replay them anytime.
+
+---
+
+## Features
+
+- 🎵 **Preloaded Sound Library**: Choose from a variety of soothing sounds like rain, wind, thunder, and forest.
+- 🎚 **Custom Mix Creation**: Combine multiple sounds, adjust individual volume levels, and create your unique soundscape.
+- 📂 **Save and Load Mixes**: Save your custom soundscapes to the local database and reload them anytime.
+- ▶️ **Play and Stop**: Play your mix or stop all sounds with a single button.
+- 💾 **Offline Support**: Save and load custom mixes without an internet connection using SQLite.
+
+---
+
+## Screenshots
+
+
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+To run this project, ensure you have the following installed:
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+- Android Studio or Xcode for development and emulation.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/safridbhueyan/sleepSoundApp.git
+   cd sleepSoundApp
